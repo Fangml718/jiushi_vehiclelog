@@ -7,4 +7,4 @@ Note: data only represent registration routes, not actual operation routes; only
 
 Daily update time: 0000-0030 GMT+8
 
-Update excepetion: Suspected data errors
+Update excepetion: suspected data errors
