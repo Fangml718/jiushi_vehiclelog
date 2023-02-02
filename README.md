@@ -13,8 +13,8 @@ Note: data only represent registration routes, not actual operation routes; only
 
 Daily update time: 0000-0030 GMT+8
 
-每日更新时间：每日凌晨00：00-00：30
+更新时间：每日凌晨00：00-00：30
 
-Update excepetion: suspected data errors
+Update excepetion: suspected data errors,
 
-更新例外：疑似数据错误
+更新例外：疑似数据出错
