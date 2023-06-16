@@ -1,4 +1,3 @@
-![image](https://github.com/Fangml718/jiushi_vehiclelog/assets/38197180/58accfb9-a7ba-4baf-a58e-fdde67ad0688)# 2023-06-16
 
 **以实际为准**
 
